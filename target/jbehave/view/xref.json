@@ -1,0 +1,35 @@
+{"xref": {
+  "whenMade": 1615879054776,
+  "createdBy": "JBehave",
+  "metaFilter": "",
+  "meta": [
+  ],
+  "stories": [
+  ],
+  "stepMatches": [
+    {
+      "type": "WHEN",
+      "annotatedPattern": "I search for an item",
+      "resolvedPattern": "I\\s+search\\s+for\\s+an\\s+item",
+      "usages": [
+        {
+          "story": "etsy_browse.story",
+          "scenario": "Browsing around the site for items",
+          "step": "When I search for an item"
+        }
+      ]
+    },
+    {
+      "type": "GIVEN",
+      "annotatedPattern": "I am on etsy.com",
+      "resolvedPattern": "I\\s+am\\s+on\\s+etsy\\.com",
+      "usages": [
+        {
+          "story": "etsy_browse.story",
+          "scenario": "Browsing around the site for items",
+          "step": "Given I am on etsy.com"
+        }
+      ]
+    }
+  ]
+}}
